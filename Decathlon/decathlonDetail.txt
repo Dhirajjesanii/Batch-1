@@ -1,0 +1,15 @@
+﻿Consider below column names for dataset ‘decathlon.csv’:
+    1. Athlets	
+    2. 100m	
+    3. Long.jump	
+    4. Shot.put	
+    5. High.jump	
+    6. 400m	
+    7. 110m.hurdle	
+    8. Discus	
+    9. Pole.vault	
+    10. Javeline	
+    11. 1500m	
+    12. Rank	
+    13. Points	
+    14. Competition
