@@ -1,4 +1,4 @@
-# What is in Batch-1 folder?
+# What is Batch-1 folder contains?
 There are three folder...which is Decathlon , Country , Seeds .
 
 all folder contains their dataset , question paper , code file based on the question paper.
