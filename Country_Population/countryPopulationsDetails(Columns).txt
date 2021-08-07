@@ -1,0 +1,7 @@
+﻿List of columns of ‘country_populations.csv’ dataset:
+    1. name	
+    2. pop_2018	
+    3. pop_2017	
+    4. growth_rate	
+    5. area	
+    6. density_2018
